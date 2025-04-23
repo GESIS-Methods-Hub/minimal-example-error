@@ -1,2 +1,1 @@
-# minimal-example-error
-Minimal Example of Tutorial with Error
+# Minimal Example of Tutorial with Error
